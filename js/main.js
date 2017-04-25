@@ -1,7 +1,5 @@
 'use strict';
 
-const url = require('url');
-
 const _ = require('lodash');
 const httpErrors = require('http-errors');
 
